@@ -1,3 +1,3 @@
 ## hello I am developer.
 
-![Cool GIF](assets/3d-cat.gif)
+![Cool GIF](/3d-cat.gif)
