@@ -1,3 +1,3 @@
-## hello I am developer.
+## hello
 
 ![Cool GIF](/3d-cat.gif)
