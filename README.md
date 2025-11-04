@@ -1,1 +1,1 @@
-## ![Cool GIF](/3d-cat.gif)
+ ![Cool GIF](/3d-cat.gif)
