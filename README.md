@@ -6,6 +6,8 @@ I work with:
 - Desktop applications  
 - Computer & laptop repairing  
 
+#
+
 -> Portfolio: https://www.hummet.dev
 
 
