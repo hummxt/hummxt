@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="/3d-cat.gif" width="300" />
-</p>
-
 ---
 
 ## I Do
