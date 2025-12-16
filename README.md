@@ -1,6 +1,3 @@
-# Hi, I'm Hummet
-
----
 
 <p align="center">
   <a href="https://www.hummet.dev">
