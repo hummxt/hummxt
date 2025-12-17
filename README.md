@@ -1,6 +1,6 @@
 # Hi, I’m Hummet
 
-** I work with : **
+**I work with:**
 - Mobile development  
 - Web development  
 - Desktop applications  
