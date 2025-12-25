@@ -8,6 +8,6 @@
 - Computer & laptop repairing  
 
 #
-**My Portfolio :** https://www.hummet.dev
+**My Website :** https://www.hummet.dev
 
 [![Cool GIF](3d-cat.gif)](https://www.hummet.dev)
