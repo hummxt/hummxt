@@ -1,4 +1,4 @@
-# Hi, I’m Hummet 👋
+# Hi, I’m Hummet
 
 ## I build:
 - Mobile development  
