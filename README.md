@@ -1,11 +1,7 @@
-# Hi, I’m Hummet
+# Hi, I'm Hummet
 
-**I build**
-- Mobile applications  
-- Web applications  
-- Desktop applications  
+I specialize in crafting applications across platforms — mobile, web, and desktop.
 
----
-**My Website:** https://www.hummet.dev
+**Explore my website:** [hummet.dev](https://www.hummet.dev)
 
-[![Cool GIF](3d-cat.gif)](https://www.hummet.dev)
+[![Visit my website](3d-cat.gif)](https://www.hummet.dev)
