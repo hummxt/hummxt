@@ -5,7 +5,6 @@
 - Mobile development  
 - Web development  
 - Desktop applications  
-- Computer & laptop repairing  
 
 #
 **My Website :** https://www.hummet.dev
