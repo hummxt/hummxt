@@ -1,10 +1,10 @@
 # Hi, I’m Hummet
 
-## I build:
-- Mobile development  
-- Web development  
-- Desktop applications
+<h2 style="border-bottom: none;">I build:</h2>
 
+- Mobile applications  
+- Web applications  
+- Desktop applications  
 
 #
 **My Website :** https://www.hummet.dev
