@@ -1,7 +1,7 @@
 # Hi, I’m Hummet
 
 
-**I work with:**
+**I build :**
 - Mobile development  
 - Web development  
 - Desktop applications  
