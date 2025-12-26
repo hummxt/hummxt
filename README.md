@@ -1,6 +1,6 @@
 # Hi, I’m Hummet
 
-**I build:**
+<span style="font-size: 1.5em; font-weight: bold;">I build:</span>
 
 - Mobile applications  
 - Web applications  
