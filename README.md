@@ -1,10 +1,10 @@
-# Hi, I’m Hummet
+# Hi, I’m Hummet 👋
 
-
-**I build :**
+## I build:
 - Mobile development  
 - Web development  
-- Desktop applications  
+- Desktop applications
+
 
 #
 **My Website :** https://www.hummet.dev
