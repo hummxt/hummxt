@@ -1,7 +1,15 @@
 # Hi, I'm Hummet
 
-I specialize in crafting applications across platforms — mobile, web, and desktop.
+Building across mobile, web, and desktop platforms.
 
-**Explore my website:** [hummet.dev](https://www.hummet.dev)
+## Tech Stack
 
-[![Visit my website](3d-cat.gif)](https://www.hummet.dev)
+**Mobile** • Kotlin Multiplatform, React Native 
+**Web** • Next.js, Vue.js, Solid, Qwik, Javascript, Go
+**Desktop** • Qt C++, Electron
+
+**My website** → [hummet.dev](https://www.hummet.dev)  
+
+[![](3d-cat.gif)](https://www.hummet.dev)
+
+---
