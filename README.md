@@ -11,6 +11,6 @@ Building across mobile, web, and desktop platforms.
 
 ---
 
-**Website** → [hummet.dev](https://www.hummet.dev)
+## Website → [hummet.dev](https://www.hummet.dev)
 
 [![](3d-cat.gif)](https://www.hummet.dev)
