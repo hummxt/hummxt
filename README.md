@@ -11,6 +11,8 @@ Desktop •  <img align="center" src="https://img.shields.io/badge/Tauri-FFC131?
 
 ---
 
-## Website → [hummet.dev](https://www.hummet.dev) ![Views](https://komarev.com/ghpvc/?username=hummxt&color=blue&style=flat-square)
+## Website → [hummet.dev](https://www.hummet.dev)
 
 [![](3d-cat.gif)](https://www.hummet.dev)
+
+ ![Views](https://komarev.com/ghpvc/?username=hummxt&color=blue&style=flat-square)
